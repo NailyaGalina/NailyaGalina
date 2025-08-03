@@ -12,6 +12,7 @@
 - Учусь в аспирантуре Сибирского федерального университета.
 - Люблю путешествовать, проводить время с друзьями и семьей и готовить отличные шашлыки.
 
+<br>
 <details>	   
   <summary><b>👨‍🎓📑 Курсы</b></summary>
   
@@ -25,7 +26,7 @@
 
   
 </details>
-
+<br>
 
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
@@ -35,8 +36,8 @@
   <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge" title="Plotly" alt="Plotly" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib&style=for-the-badge" title="Matplotlib" alt="Matplotlib" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-white?logo=seaborn&style=for-the-badge" title="Seaborn" alt="Seaborn" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-white?logo=seaborn&style=for-the-badge" title="Seaborn" alt="Seaborn" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/mySQL-white?logo=mySQL&s&style=for-the-badge" title="MySQL"  alt="MySQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
