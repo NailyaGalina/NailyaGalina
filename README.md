@@ -61,7 +61,7 @@
 ---
 <h2>Мои проекты 👇</h2>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NailyaGalina&repo=Statistic_Confidence_Interval)](https://github.com/NailyaGalina/Statistic_Confidence_Interval)
 
 
 
