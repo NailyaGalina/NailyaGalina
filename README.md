@@ -16,12 +16,12 @@
 <details>	   
   <summary><b>👨‍🎓📑 Курсы</b></summary>
   
-  "Симулятор SQL" (KARPOV.COURSES). https://lab.karpov.courses/certificate/931b7a31-cb6b-46ff-96d4-3053295377d2/ <br>
-  "Основы Python" (KARPOV.COURSES). https://lab.karpov.courses/certificate/aba18940-ebe1-48d6-967d-f928d940b36d/ <br>
-  "Математика для Data Science" (KARPOV.COURSES). https://lab.karpov.courses/certificate/cee674a8-132d-4d5b-ae22-e60ac35f7f82/ <br>
-  "Поколение Python": курс для начинающих (Stepik). https://stepik.org/cert/2877435 <br>
-  "Практикум по статистике на Python" (Stepik). https://stepik.org/cert/2926506 <br>
-  "Введение в SQL" (Stepik). https://stepik.org/cert/2907255 <br>
+  "Симулятор SQL" (KARPOV.COURSES). [Сертификат можно посмотреть тут](https://lab.karpov.courses/certificate/931b7a31-cb6b-46ff-96d4-3053295377d2/) <br>
+  "Основы Python" (KARPOV.COURSES). [Сертификат можно посмотреть тут](https://lab.karpov.courses/certificate/aba18940-ebe1-48d6-967d-f928d940b36d/) <br>
+  "Математика для Data Science" (KARPOV.COURSES). [Сертификат можно посмотреть тут](https://lab.karpov.courses/certificate/cee674a8-132d-4d5b-ae22-e60ac35f7f82/) <br>
+  "Поколение Python": курс для начинающих (Stepik). [Сертификат можно посмотреть тут](https://stepik.org/cert/2877435) <br>
+  "Практикум по статистике на Python" (Stepik). [Сертификат можно посмотреть тут](https://stepik.org/cert/2926506) <br>
+  "Введение в SQL" (Stepik). [Сертификат можно посмотреть тут](https://stepik.org/cert/2907255) <br>
 
 
   
