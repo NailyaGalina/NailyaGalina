@@ -16,6 +16,7 @@
 <details>	   
   <summary><b>👨‍🎓📑 Курсы</b></summary>
   
+  "Аналитик данных" (KARPOV.COURSES). Скоро здесь будет ссылка на сертификат <br>
   "Симулятор SQL" (KARPOV.COURSES). [Сертификат можно посмотреть тут](https://lab.karpov.courses/certificate/931b7a31-cb6b-46ff-96d4-3053295377d2/) <br>
   "Основы Python" (KARPOV.COURSES). [Сертификат можно посмотреть тут](https://lab.karpov.courses/certificate/aba18940-ebe1-48d6-967d-f928d940b36d/) <br>
   "Математика для Data Science" (KARPOV.COURSES). [Сертификат можно посмотреть тут](https://lab.karpov.courses/certificate/cee674a8-132d-4d5b-ae22-e60ac35f7f82/) <br>
