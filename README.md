@@ -59,7 +59,7 @@
 
 <a href="">[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nelya_Galina)</a>
 <a href="">[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miam37577@gmail.com)</a>
-<a href="">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BD%D0%B0%D0%B8%D0%BB%D1%8F-%D0%B3-aa909b37b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bh%2FCjAWjORc%2BUWw3xEBEyAw%3D%3D)</a>
+<a href="">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nailya909b37b)</a>
 
 
 
