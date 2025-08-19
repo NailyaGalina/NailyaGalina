@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/Excel-white?logo=Excel&logoColor=black&style=for-the-badge" title="Excel" alt="Excel" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT" title="GIT" alt="GIT" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Superset-white?logo=Superset&style=for-the-badge" title="Superset" alt="Superset" height="40"/>&nbsp;
+  
   
   
   
