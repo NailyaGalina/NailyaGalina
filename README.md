@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/DataLens-white?logo=DataLens&s&logoColor=yellow&style=for-the-badge" title="DataLens" alt="DataLens" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Excel-white?logo=Excel&logoColor=black&style=for-the-badge" title="Excel" alt="Excel" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets" title="GoogleSheets" alt="GoogleSheets" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT" title="GIT" alt="GIT" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=Apache%20Airflow&style=for-the-badge&logoColor=017fff" title="Airflow" alt="Airflow" height="40"/>
   <img src="https://img.shields.io/badge/Superset-white?logo=Apache%20Superset&style=for-the-badge&logoColor=333333" title="Superset" alt="Superset" height="40"/>
