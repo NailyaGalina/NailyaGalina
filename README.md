@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge" title="Plotly" alt="Plotly" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Pingouin-white?logo=Pingouin&logoColor=black&style=for-the-badge" title="Pingouin" alt="Pingouin" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib&style=for-the-badge" title="Matplotlib" alt="Matplotlib" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Seaborn-white?logo=seaborn&style=for-the-badge" title="Seaborn" alt="Seaborn" height="40"/>&nbsp;
@@ -46,12 +47,14 @@
   <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/DataLens-white?logo=DataLens&s&logoColor=yellow&style=for-the-badge" title="DataLens" alt="DataLens" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Superset-white?logo=Apache%20Superset&style=for-the-badge&logoColor=333333" title="Superset" alt="Superset" height="40"/>
   <img src="https://img.shields.io/badge/Excel-white?logo=Excel&logoColor=black&style=for-the-badge" title="Excel" alt="Excel" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets" title="GoogleSheets" alt="GoogleSheets" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT" title="GIT" alt="GIT" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=Apache%20Airflow&style=for-the-badge&logoColor=017fff" title="Airflow" alt="Airflow" height="40"/>
-  <img src="https://img.shields.io/badge/Superset-white?logo=Apache%20Superset&style=for-the-badge&logoColor=333333" title="Superset" alt="Superset" height="40"/>
   
+
+
   
 </div>
 
