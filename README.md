@@ -42,6 +42,7 @@
   "Практикум по статистике на Python" (Stepik). [Сертификат можно посмотреть тут](https://stepik.org/cert/2926506) <br>
   "Введение в SQL" (Stepik). [Сертификат можно посмотреть тут](https://stepik.org/cert/2907255) <br>
   "Введение в SQL. Продолжение" (Stepik). [Сертификат можно посмотреть тут](https://stepik.org/cert/2936318) <br>
+  "ClickHouse с нуля" (Stepik). [Сертификат можно посмотреть тут](https://stepik.org/cert/3089441) <br>
   "Excel Power Query и Pivot (+BI): с 0 до бизнес-пользователя" (Stepik). [Сертификат можно посмотреть тут](https://stepik.org/cert/3016781) <br>
   "Excel: основное для работы с массивами и базами данных" (Stepik). [Сертификат можно посмотреть тут](https://stepik.org/cert/3077791) <br>
   
